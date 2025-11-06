@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+
+    <!-- Textos comunes -->
+    <string name="escribe_un_texto">Escribe un texto</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="volver_inicio">Volver al inicio</string>
+
+    <!-- Ejercicio 2 -->
+    <string name="tarea_anadida">Tarea añadida</string>
+    <string name="deshacer">Deshacer</string>
+
+    <!-- Ejercicio 3 -->
+    <string name="btn_color">Color</string>
+    <string name="btn_tamano">Tamaño</string>
+    <string-array name="opciones_color">
+        <item>Blanco y Negro</item>
+        <item>Negro y Blanco</item>
+        <item>Negro y Verde</item>
+    </string-array>
+    <string-array name="opciones_tamano">
+        <item>Pequeño (8sp)</item>
+        <item>Normal (12sp)</item>
+        <item>Grande (20sp)</item>
+    </string-array>
+
+    <!-- Ejercicio 4 -->
+    <string name="iniciar">Iniciar</string>
+    <string name="detener">Detener</string>
+    <string name="canal_id">tareas_channel_id</string>
+    <string name="canal_nombre">Tareas</string>
+    <string name="notif_titulo">Gestor de tareas</string>
+
+    <!-- Botones -->
+    <string name="ir_ej1">Ejercicio 1: Toast</string>
+    <string name="ir_ej2">Ejercicio 2: Snackbar</string>
+    <string name="ir_ej3">Ejercicio 3: Diálogos</string>
+    <string name="ir_ej4">Ejercicio 4: Notificación barra de estado</string>
+
+</resources>
